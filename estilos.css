@@ -1,0 +1,50 @@
+
+body{
+    background:white;
+    
+  }
+  
+  #title
+  {
+    font-size: 24px;
+    font-family: Lobster;
+    background:pink;
+    text-align:center;
+  }
+  #image{
+    display:block;
+    margin:auto;
+    width:150px;
+    border-radius: 50%;
+  
+  }
+  #img-div h2{
+    text-align:center;
+     margin-left:315px;
+    font-family: Lobster;
+    font-size:18px;
+    
+  }
+  #tribute-info{
+    text-align:center;
+  }
+   h3
+  {
+    background:pink;
+    text-align:center;
+    font-family: Lobster;
+  }
+   a
+  {
+    color:black;
+    font-weight: bold;
+  }
+  h4
+  {
+    background:pink;
+    text-align:left;
+    font-family: Lobster;
+    font-size:18px;
+  
+    
+  }
