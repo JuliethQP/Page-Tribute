@@ -30,8 +30,7 @@ body{
   }
    h3
   {
-    background:pink;
-    text-align:center;
+   
     font-family: Lobster;
   }
    a
@@ -39,12 +38,13 @@ body{
     color:black;
     font-weight: bold;
   }
-  h4
-  {
-    background:pink;
-    text-align:left;
-    font-family: Lobster;
-    font-size:18px;
-  
+
+  .titulo{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+  }
+  p{
     
+    text-align: justify !important;
+
   }
